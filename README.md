@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="app/src/main/ic_launcher-playstore.png" alt="Assistral Logo" width="128" height="128">
   
   # Assistral
